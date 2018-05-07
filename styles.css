@@ -75,6 +75,8 @@ p {
 }
 .sidebar-wrapper .profile {
   margin-bottom: 15px;
+  height:150px;
+  width: 150px;
 }
 .sidebar-wrapper .contact-list li {
   margin-bottom: 15px;
